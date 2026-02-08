@@ -199,14 +199,14 @@ html{
     line-height: 1;
  }
  .home-img{
-    background-image: url(../images/home.jpg);
+    background-image: url(images/home.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
     border-radius: 20px;
  }
   .invent-img{
-    background-image: url(../images/invent.jpg);
+    background-image: url(images/invent.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -344,7 +344,7 @@ html{
 }
 
 .column-a {
-    background-image: url(../images/summit.png);
+    background-image: url(images/summit.png);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -352,7 +352,7 @@ html{
     border-radius: 20px;
 }
 .column-b {
-    background-image: url(../images/max.jpg);
+    background-image: url(images/max.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -360,7 +360,7 @@ html{
     border-radius: 20px;
 }
 .column-c {
-    background-image: url(../images/study.jpg);
+    background-image: url(images/study.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -368,7 +368,7 @@ html{
     border-radius: 20px;
 }
 .column-d {
-    background-image: url(../images/kyuyo.jpg);
+    background-image: url(images/kyuyo.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
