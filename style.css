@@ -55,7 +55,7 @@ html {
 
  /* メイン */
  #hero{
-  background-image: url(../images/hero.jpg);
+  background-image: url("../images/hero.jpg");
   background-position: calc(50% + 30px) center;
   background-size: 110%;
   height: 700px;
