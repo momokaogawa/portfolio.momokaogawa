@@ -199,7 +199,7 @@ html{
     line-height: 1;
  }
  .home-img{
-    background-image: url(../images/home.JPG);
+    background-image: url(../images/home.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -344,7 +344,7 @@ html{
 }
 
 .column-a {
-    background-image: url(../images/IMG_152406_0\ 2.PNG);
+    background-image: url(../images/IMG_152406_0\ 2.png);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -352,7 +352,7 @@ html{
     border-radius: 20px;
 }
 .column-b {
-    background-image: url(../images/IMG_222338_0.JPG);
+    background-image: url(../images/IMG_222338_0.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -360,7 +360,7 @@ html{
     border-radius: 20px;
 }
 .column-c {
-    background-image: url(../images/IMG_3742.JPG);
+    background-image: url(../images/IMG_3742.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -368,7 +368,7 @@ html{
     border-radius: 20px;
 }
 .column-d {
-    background-image: url(../images/IMG_5255.JPG);
+    background-image: url(../images/IMG_5255.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
